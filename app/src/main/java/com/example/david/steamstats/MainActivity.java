@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+//Testing commit
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
